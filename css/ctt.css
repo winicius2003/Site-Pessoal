@@ -6,9 +6,10 @@
 .ar2, .ar3{display: inline-block;}
 
 
-.figure { 
-    height: 560px;
-    width: 550px;}
+video{ 
+    height: 100%;
+    width: 100%;
+    display: block;}
 
 
 input, textarea, .btn.orange {
@@ -16,8 +17,8 @@ input, textarea, .btn.orange {
   border-radius: 10px;
   margin-bottom: 30px;
   padding: 10px;
-  width: 300px;
-  margin-left: 100px;
+  width: 260px;
+  margin-left: 50px;
   align-items: center;  
 }
 .tx1{text-align: center;
@@ -27,8 +28,8 @@ input, textarea, .btn.orange {
 
 }
 h1{text-align: center;
-    font-size: 42px;
-    margin-left: 85px;
+    font-size: 24px;
+    margin-left: 65px;
     margin-top:-50px;}
 
 
