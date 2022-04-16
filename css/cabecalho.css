@@ -12,6 +12,7 @@
 		justify-content:	space-evenly;
 		flex-wrap:	wrap;
 		background-color: #0c817887;
+		width:100%;
 			}
 
 	.cabecalho__item-menu{
