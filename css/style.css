@@ -5,23 +5,25 @@
 
     }
 .sub{text-align: center;
-    font-size: 42px;
+    font-size: 35px;
     margin-top: 10px;}
+
 .sub1{text-align: center;
     font-size: 35px;
-     margin-top: 100px;}
+     margin-top: 50px;}
 
 body{ background-color:rgb(185, 185, 255);}
-img{text-align: justify;
+
+img{align-items: center;
         height: 350px;
         width: 1335px;
       
     }
 .paragrafo{ text-align:left;
-    font-size:24px;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-top: 2;
+    font-size:18px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
     margin-block-end: 20px;
 }
 
@@ -33,10 +35,11 @@ img{text-align: justify;
     margin-top: 65px;
 }
 .eu{
-    
+    display: block;
     height: 300px;
     width: 300px;
     border-radius: 50px;
-    margin-left: 40%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 50px;
 }
